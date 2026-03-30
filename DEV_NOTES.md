@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Added type hints to helper functions
 - Verified compatibility with latest runtime version
+
+## 2026-03-30
+- Noted known limitation in docs
+- Fixed minor edge case in input handling
+- Bumped patch version
